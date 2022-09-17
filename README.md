@@ -1,2 +1,2 @@
 # Data-Science
-Data Science Ai projects
+Data Science AI projects
